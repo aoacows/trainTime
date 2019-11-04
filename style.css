@@ -1,0 +1,52 @@
+body{
+    background-image: url('./mars-wallpapers.jpg');
+    color: rgb(9, 255, 0);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.pHeader {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.jumbotron {
+	border-radius: 25px;
+    background-color: rgb(58, 18, 18);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.table {
+   font-family: 'Roboto', sans-serif;
+
+}
+
+caption {
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+
+.panel {
+	border-radius: 25px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+	
+}
+
+.panel-default>.panel-heading{
+	border-radius: 15px 15px 0px 0px;
+	border-style: solid;
+	border-width: 1px;
+	
+}
+
+#podTable{
+    color: rgb(9, 255, 0);
+
+}
